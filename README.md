@@ -1,3 +1,15 @@
+<h1>Clone TikTok</h1>
+
+<div>
+  <p>
+    Desenvolvido em React JS, HTML, CSS, Banco de dados: Firebase
+  </p>
+  <p>Projeto desenvolvido na Jornada FULL STACK da EBAC</p>
+</div>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
